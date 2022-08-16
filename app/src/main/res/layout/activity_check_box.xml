@@ -18,10 +18,13 @@
         android:onClick="OnCheckBoxClicked"
         android:layout_height="wrap_content"
         android:text="Female"/>
+<<<<<<< HEAD
     <CheckBox
         android:id="@+id/cb_others"
         android:layout_width="match_parent"
         android:onClick="OnCheckBoxClicked"
         android:layout_height="wrap_content"
         android:text="Others"/>
+=======
+>>>>>>> origin/main
 </LinearLayout>
